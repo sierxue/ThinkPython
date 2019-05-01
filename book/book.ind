@@ -1,0 +1,1346 @@
+\begin{theindex}
+
+  \item abecedarian, \hyperpage{72}, \hyperpage{82}
+  \item abs function, \hyperpage{52}
+  \item absolute path, \hyperpage{135}, \hyperpage{141}
+  \item access, \hyperpage{87}
+  \item accumulator, \hyperpage{97}
+    \subitem histogram, \hyperpage{125}
+    \subitem list, \hyperpage{91}
+    \subitem string, \hyperpage{171}
+    \subitem sum, \hyperpage{91}
+  \item Ackermann function, \hyperpage{61}, \hyperpage{107}
+  \item add method, \hyperpage{161}
+  \item addition with carrying, \hyperpage{68}
+  \item algorithm, \hyperpage{3}, \hyperpage{8}, \hyperpage{67}, 
+		\hyperpage{128}, \hyperpage{201}
+    \subitem MD5, \hyperpage{139}
+    \subitem RSA, \hyperpage{109}
+    \subitem square root, \hyperpage{69}
+  \item aliasing, \hyperpage{93, 94}, \hyperpage{98}, \hyperpage{145}, 
+		\hyperpage{147}, \hyperpage{166}
+    \subitem copying to avoid, \hyperpage{97}
+  \item alphabet, \hyperpage{40}
+  \item alternative execution, \hyperpage{43}
+  \item ambiguity, \hyperpage{5}
+  \item anagram, \hyperpage{98}
+  \item anagram set, \hyperpage{121}, \hyperpage{138}
+  \item analysis of algorithms, \hyperpage{201}
+  \item analysis of primitives, \hyperpage{204}
+  \item and operator, \hyperpage{42}
+  \item anydbm module, \hyperpage{137}
+  \item append method, \hyperpage{90}, \hyperpage{95}, \hyperpage{98}, 
+		\hyperpage{170, 171}
+  \item arc function, \hyperpage{34}
+  \item Archimedian spiral, \hyperpage{40}
+  \item argument, \hyperpage{19}, \hyperpage{21}, \hyperpage{23, 24}, 
+		\hyperpage{28}, \hyperpage{95}
+    \subitem gather, \hyperpage{115}
+    \subitem keyword, \hyperpage{35}, \hyperpage{38}, \hyperpage{119}, 
+		\hyperpage{180}
+    \subitem list, \hyperpage{95}
+    \subitem optional, \hyperpage{76}, \hyperpage{93}, \hyperpage{105}
+    \subitem variable-length tuple, \hyperpage{115}
+  \item argument scatter, \hyperpage{115}
+  \item arithmetic operator, \hyperpage{13}
+  \item assert statement, \hyperpage{155}
+  \item assignment, \hyperpage{17}, \hyperpage{63}, \hyperpage{87}
+    \subitem augmented, \hyperpage{91}, \hyperpage{97}
+    \subitem item, \hyperpage{74}, \hyperpage{88}, \hyperpage{114}
+    \subitem multiple, \hyperpage{68}, \hyperpage{108}
+    \subitem tuple, \hyperpage{114--116}, \hyperpage{121}
+  \item assignment statement, \hyperpage{12}
+  \item asymptotic analysis, \hyperpage{202}
+  \item attribute, \hyperpage{164}
+    \subitem \_\_dict\_\_, \hyperpage{164}
+    \subitem class, \hyperpage{168}, \hyperpage{176}
+    \subitem initializing, \hyperpage{164}
+    \subitem instance, \hyperpage{144}, \hyperpage{149}, 
+		\hyperpage{168}, \hyperpage{176}
+  \item AttributeError, \hyperpage{148}, \hyperpage{197}
+  \item augmented assignment, \hyperpage{91}, \hyperpage{97}
+  \item Austin, Jane, \hyperpage{125}
+  \item available colors, \hyperpage{150}, \hyperpage{166}
+  \item average case, \hyperpage{202}
+  \item average cost, \hyperpage{209}
+
+  \indexspace
+
+  \item badness, \hyperpage{203}
+  \item Bangladesh, national flag, \hyperpage{150}
+  \item base case, \hyperpage{45}, \hyperpage{49}, \hyperpage{213}
+  \item benchmarking, \hyperpage{130}, \hyperpage{132}
+  \item {\tt BetterMap}, \hyperpage{207}
+  \item big, hairy expression, \hyperpage{199}
+  \item big-oh notation, \hyperpage{203}
+  \item binary search, \hyperpage{98}
+  \item binding, \hyperpage{186}, \hyperpage{189}
+  \item bingo, \hyperpage{121}
+  \item birthday, \hyperpage{156}
+  \item birthday paradox, \hyperpage{98}
+  \item {\tt bisect} module, \hyperpage{206}
+  \item bisect module, \hyperpage{99}, \hyperpage{206}
+  \item bisection   search, \hyperpage{205}
+  \item bisection search, \hyperpage{98}
+  \item bisection, debugging by, \hyperpage{68}
+  \item bitwise operator, \hyperpage{13}
+  \item body, \hyperpage{21}, \hyperpage{28}, \hyperpage{65}
+  \item bool type, \hyperpage{41}
+  \item boolean expression, \hyperpage{41}, \hyperpage{48}
+  \item boolean function, \hyperpage{54}, \hyperpage{151}
+  \item boolean operator, \hyperpage{76}
+  \item borrowing, subtraction with, \hyperpage{68}, \hyperpage{155}
+  \item bound method, \hyperpage{184}, \hyperpage{189}
+  \item bounded, \hyperpage{207}
+  \item bounding box, \hyperpage{149}, \hyperpage{182}, \hyperpage{189}
+  \item bracket
+    \subitem squiggly, \hyperpage{101}
+  \item bracket operator, \hyperpage{71}, \hyperpage{87}, 
+		\hyperpage{113}
+  \item branch, \hyperpage{43}, \hyperpage{48}
+  \item break statement, \hyperpage{65}
+  \item bubble sort, \hyperpage{201}
+  \item bug, \hyperpage{3}, \hyperpage{8}
+    \subitem worst, \hyperpage{165}
+    \subitem worst ever, \hyperpage{190}
+  \item Button widget, \hyperpage{180}
+
+  \indexspace
+
+  \item calculator, \hyperpage{9}, \hyperpage{18}
+  \item call graph, \hyperpage{107}, \hyperpage{110}
+  \item Callable object, \hyperpage{186}
+  \item callback, \hyperpage{181}, \hyperpage{184}, \hyperpage{186}, 
+		\hyperpage{188, 189}
+  \item Canvas coordinate, \hyperpage{181}, \hyperpage{188}
+  \item Canvas item, \hyperpage{181}
+  \item Canvas object, \hyperpage{149}
+  \item Canvas widget, \hyperpage{181}
+  \item Car Talk, \hyperpage{86}, \hyperpage{111}, \hyperpage{122}
+  \item Card class, \hyperpage{168}, \hyperpage{218}
+  \item card, playing, \hyperpage{167}
+  \item carrying, addition with, \hyperpage{68}, \hyperpage{152}, 
+		\hyperpage{154}
+  \item case-sensitivity, variable names, \hyperpage{17}
+  \item catch, \hyperpage{141}
+  \item chained conditional, \hyperpage{43}, \hyperpage{48}
+  \item character, \hyperpage{71}
+  \item checksum, \hyperpage{139}
+  \item child class, \hyperpage{172}, \hyperpage{177}
+  \item choice function, \hyperpage{124}
+  \item circle function, \hyperpage{33}
+  \item circular definition, \hyperpage{55}
+  \item class, \hyperpage{143}, \hyperpage{149}
+    \subitem Card, \hyperpage{168}
+    \subitem child, \hyperpage{172}, \hyperpage{177}
+    \subitem Deck, \hyperpage{170}
+    \subitem Hand, \hyperpage{172}
+    \subitem Kangaroo, \hyperpage{165}
+    \subitem parent, \hyperpage{172}
+    \subitem Point, \hyperpage{143}, \hyperpage{160}, \hyperpage{214}
+    \subitem Rectangle, \hyperpage{145}, \hyperpage{214}
+    \subitem SimpleTurtleWorld, \hyperpage{183}
+    \subitem Time, \hyperpage{151}
+  \item class attribute, \hyperpage{168}, \hyperpage{176}
+  \item class definition, \hyperpage{143}
+  \item class diagram, \hyperpage{174}, \hyperpage{177}, 
+		\hyperpage{211}, \hyperpage{216, 217}
+  \item class object, \hyperpage{144}, \hyperpage{149}, \hyperpage{215}
+  \item close method, \hyperpage{134}, \hyperpage{137}, \hyperpage{139}
+  \item cmp function, \hyperpage{170}
+  \item \_\_cmp\_\_ method, \hyperpage{169}
+  \item Collatz conjecture, \hyperpage{65}
+  \item colon, \hyperpage{21}, \hyperpage{194}
+  \item color list, \hyperpage{150}, \hyperpage{166}
+  \item comment, \hyperpage{16}, \hyperpage{18}
+  \item commutativity, \hyperpage{16}, \hyperpage{162}
+  \item compare function, \hyperpage{52}
+  \item comparing algorithms, \hyperpage{201}
+  \item comparison
+    \subitem string, \hyperpage{76}
+    \subitem tuple, \hyperpage{118}, \hyperpage{170}
+  \item comparison sort, \hyperpage{205}
+  \item compile, \hyperpage{2}, \hyperpage{7}
+  \item composition, \hyperpage{21}, \hyperpage{24}, \hyperpage{28}, 
+		\hyperpage{54}, \hyperpage{170}
+  \item compound statement, \hyperpage{42}, \hyperpage{48}
+  \item concatenation, \hyperpage{16}, \hyperpage{18}, \hyperpage{24}, 
+		\hyperpage{72}, \hyperpage{74}, \hyperpage{93}
+    \subitem list, \hyperpage{89}, \hyperpage{95}, \hyperpage{98}
+  \item condition, \hyperpage{42}, \hyperpage{48}, \hyperpage{65}, 
+		\hyperpage{196}
+  \item conditional, \hyperpage{194}
+    \subitem chained, \hyperpage{43}, \hyperpage{48}
+    \subitem nested, \hyperpage{43}, \hyperpage{49}
+  \item conditional execution, \hyperpage{42}
+  \item conditional statement, \hyperpage{42}, \hyperpage{48}, 
+		\hyperpage{55}
+  \item config method, \hyperpage{181}
+  \item consistency check, \hyperpage{110}, \hyperpage{154}
+  \item constant time, \hyperpage{208}
+  \item constructor, \hyperpage{216}
+  \item contributors, \hyperpage{vii}
+  \item conversion
+    \subitem type, \hyperpage{19}
+  \item coordinate
+    \subitem Canvas, \hyperpage{181}, \hyperpage{188}
+    \subitem pixel, \hyperpage{188}
+  \item coordinate sequence, \hyperpage{182}
+  \item copy, \hyperpage{215}
+    \subitem deep, \hyperpage{148}
+    \subitem shallow, \hyperpage{148}
+    \subitem slice, \hyperpage{74}, \hyperpage{90}
+    \subitem to avoid aliasing, \hyperpage{97}
+  \item copy module, \hyperpage{147}
+  \item copying objects, \hyperpage{147}
+  \item count method, \hyperpage{76}
+  \item counter, \hyperpage{75}, \hyperpage{79}, \hyperpage{102}, 
+		\hyperpage{108}
+  \item counting and looping, \hyperpage{75}
+  \item Creative Commons, \hyperpage{vi}
+  \item crossover point, \hyperpage{202}
+  \item crosswords, \hyperpage{81}
+  \item cummings, e. e., \hyperpage{3}
+  \item cumulative sum, \hyperpage{92}
+  \item Czech Republic, national flag, \hyperpage{150}
+
+  \indexspace
+
+  \item data encapsulation, \hyperpage{175}
+  \item data structure, \hyperpage{120, 121}, \hyperpage{129}
+  \item database, \hyperpage{137}, \hyperpage{141}
+  \item datetime module, \hyperpage{156}
+  \item dead code, \hyperpage{52}, \hyperpage{60}, \hyperpage{198}
+  \item debugger (pdb), \hyperpage{197}
+  \item debugging, \hyperpage{3}, \hyperpage{7, 8}, \hyperpage{16}, 
+		\hyperpage{27}, \hyperpage{38}, \hyperpage{47}, 
+		\hyperpage{59}, \hyperpage{77}, \hyperpage{85}, 
+		\hyperpage{96}, \hyperpage{109}, \hyperpage{120}, 
+		\hyperpage{131}, \hyperpage{140}, \hyperpage{148}, 
+		\hyperpage{155}, \hyperpage{164}, \hyperpage{174}, 
+		\hyperpage{188}, \hyperpage{193}
+    \subitem by bisection, \hyperpage{68}
+    \subitem emotional response, \hyperpage{7}, \hyperpage{200}
+    \subitem experimental, \hyperpage{4}
+    \subitem superstition, \hyperpage{200}
+  \item Deck class, \hyperpage{170}, \hyperpage{218}
+  \item deck, playing cards, \hyperpage{170}
+  \item declaration, \hyperpage{108}, \hyperpage{111}
+  \item decorate-sort-undecorate pattern, \hyperpage{119}
+  \item decrement, \hyperpage{64}, \hyperpage{69}
+  \item deep copy, \hyperpage{148, 149}
+  \item deepcopy function, \hyperpage{148}
+  \item def keyword, \hyperpage{21}
+  \item default value, \hyperpage{126}, \hyperpage{132}, 
+		\hyperpage{160}
+    \subitem avoiding mutable, \hyperpage{165}
+  \item definition
+    \subitem circular, \hyperpage{55}
+    \subitem class, \hyperpage{143}
+    \subitem function, \hyperpage{21}
+    \subitem recursive, \hyperpage{122}
+  \item del operator, \hyperpage{92}
+  \item deletion, element of list, \hyperpage{92}
+  \item delimiter, \hyperpage{93}, \hyperpage{98}
+  \item deterministic, \hyperpage{124}, \hyperpage{132}
+  \item development plan, \hyperpage{39}, \hyperpage{175}
+    \subitem encapsulation and generalization, \hyperpage{37}
+    \subitem incremental, \hyperpage{52}, \hyperpage{193}
+    \subitem planned, \hyperpage{154}
+    \subitem problem recognition, \hyperpage{83}, \hyperpage{85}
+    \subitem prototype and patch, \hyperpage{151}, \hyperpage{154}
+    \subitem random walk programming, \hyperpage{131}, \hyperpage{200}
+  \item diagram
+    \subitem call graph, \hyperpage{110}
+    \subitem class, \hyperpage{174}, \hyperpage{177}, \hyperpage{211}, 
+		\hyperpage{216, 217}
+    \subitem object, \hyperpage{144}, \hyperpage{146}, 
+		\hyperpage{148, 149}, \hyperpage{151}, \hyperpage{169}, 
+		\hyperpage{211}, \hyperpage{213}
+    \subitem stack, \hyperpage{25}, \hyperpage{95}, 
+		\hyperpage{211, 212}
+    \subitem state, \hyperpage{12}, \hyperpage{63}, \hyperpage{78}, 
+		\hyperpage{88}, \hyperpage{94}, \hyperpage{106}, 
+		\hyperpage{118}, \hyperpage{144}, \hyperpage{146}, 
+		\hyperpage{148}, \hyperpage{151}, \hyperpage{169}, 
+		\hyperpage{211}
+  \item \_\_dict\_\_ attribute, \hyperpage{164}
+  \item dict function, \hyperpage{101}
+  \item dictionary, \hyperpage{101}, \hyperpage{110}, \hyperpage{117}, 
+		\hyperpage{197}, \hyperpage{214}
+    \subitem initialize, \hyperpage{117}
+    \subitem invert, \hyperpage{105}
+    \subitem lookup, \hyperpage{104}
+    \subitem looping with, \hyperpage{103}
+    \subitem reverse lookup, \hyperpage{104}
+    \subitem subtraction, \hyperpage{127}
+    \subitem traversal, \hyperpage{117}, \hyperpage{164}
+  \item dictionary methods, \hyperpage{204}
+    \subitem anydbm module, \hyperpage{137}
+  \item diff, \hyperpage{139}
+  \item Dijkstra, Edsger, \hyperpage{85}
+  \item directory, \hyperpage{135}, \hyperpage{141}
+    \subitem walk, \hyperpage{135}
+    \subitem working, \hyperpage{135}
+  \item dispatch
+    \subitem type-based, \hyperpage{163}
+  \item dispatch, type-based, \hyperpage{162}
+  \item divisibility, \hyperpage{41}
+  \item division
+    \subitem floating-point, \hyperpage{14}
+    \subitem floor, \hyperpage{14}, \hyperpage{48}
+  \item divmod, \hyperpage{115}, \hyperpage{154}
+  \item docstring, \hyperpage{37}, \hyperpage{39}, \hyperpage{143}
+  \item documentation, \hyperpage{9}
+  \item dot notation, \hyperpage{20}, \hyperpage{27, 28}, 
+		\hyperpage{75}, \hyperpage{144}, \hyperpage{158}, 
+		\hyperpage{168}
+  \item Double Day, \hyperpage{156}
+  \item double letters, \hyperpage{86}
+  \item Doyle, Arthur Conan, \hyperpage{4}
+  \item drag-and-drop, \hyperpage{187}
+  \item DSU pattern, \hyperpage{119}, \hyperpage{121}, \hyperpage{126}
+  \item duplicate, \hyperpage{98}, \hyperpage{111}, \hyperpage{139}
+
+  \indexspace
+
+  \item Einstein, Albert, \hyperpage{35}
+  \item element, \hyperpage{87}, \hyperpage{97}
+  \item element deletion, \hyperpage{92}
+  \item elif keyword, \hyperpage{43}
+  \item Elkner, Jeff, \hyperpage{v, vi}
+  \item ellipses, \hyperpage{21}
+  \item else keyword, \hyperpage{43}
+  \item email address, \hyperpage{114}
+  \item embedded object, \hyperpage{146}, \hyperpage{149}, 
+		\hyperpage{166}
+    \subitem copying, \hyperpage{147}
+  \item emotional debugging, \hyperpage{7}, \hyperpage{200}
+  \item empty list, \hyperpage{87}
+  \item empty string, \hyperpage{79}, \hyperpage{93}
+  \item encapsulation, \hyperpage{34}, \hyperpage{38}, \hyperpage{54}, 
+		\hyperpage{67}, \hyperpage{75}, \hyperpage{173}
+    \subitem data, \hyperpage{175}
+  \item encode, \hyperpage{167}, \hyperpage{176}
+  \item encrypt, \hyperpage{167}
+  \item encryption, \hyperpage{109}
+  \item end of line character, \hyperpage{141}
+  \item Entry widget, \hyperpage{182}
+  \item enumerate function, \hyperpage{116}
+  \item epsilon, \hyperpage{67}
+  \item equality and assignment, \hyperpage{63}
+  \item equivalence, \hyperpage{94}
+  \item equivalent, \hyperpage{98}
+  \item error
+    \subitem compile-time, \hyperpage{193}
+    \subitem runtime, \hyperpage{4}, \hyperpage{17}, \hyperpage{46, 47}, 
+		\hyperpage{193}
+    \subitem semantic, \hyperpage{4}, \hyperpage{12}, \hyperpage{17}, 
+		\hyperpage{78}, \hyperpage{193}, \hyperpage{198}
+    \subitem shape, \hyperpage{120}
+    \subitem syntax, \hyperpage{3}, \hyperpage{16}, \hyperpage{193}
+  \item error checking, \hyperpage{58}
+  \item error message, \hyperpage{3, 4}, \hyperpage{7}, \hyperpage{12}, 
+		\hyperpage{17}, \hyperpage{193}
+  \item eval function, \hyperpage{69}
+  \item evaluate, \hyperpage{14}
+  \item event, \hyperpage{189}
+  \item event handler, \hyperpage{186}
+  \item event loop, \hyperpage{180}, \hyperpage{189}
+  \item Event object, \hyperpage{187}
+  \item event string, \hyperpage{186}
+  \item event-driven programming, \hyperpage{181}, \hyperpage{188, 189}
+  \item exception, \hyperpage{4}, \hyperpage{8}, \hyperpage{17}, 
+		\hyperpage{193}, \hyperpage{196}
+    \subitem AttributeError, \hyperpage{148}, \hyperpage{197}
+    \subitem IndexError, \hyperpage{72}, \hyperpage{77}, \hyperpage{88}, 
+		\hyperpage{197}
+    \subitem IOError, \hyperpage{136}
+    \subitem KeyError, \hyperpage{102}, \hyperpage{197}
+    \subitem NameError, \hyperpage{24}, \hyperpage{197}
+    \subitem OverflowError, \hyperpage{48}
+    \subitem RuntimeError, \hyperpage{46}
+    \subitem SyntaxError, \hyperpage{21}
+    \subitem TypeError, \hyperpage{71}, \hyperpage{74}, \hyperpage{106}, 
+		\hyperpage{114, 115}, \hyperpage{134}, \hyperpage{159}, 
+		\hyperpage{197}
+    \subitem UnboundLocalError, \hyperpage{108}
+    \subitem ValueError, \hyperpage{47}, \hyperpage{104}, 
+		\hyperpage{114}
+  \item exception, catching, \hyperpage{136}
+  \item executable, \hyperpage{2}, \hyperpage{8}
+  \item exercise, secret, \hyperpage{141}
+  \item exists function, \hyperpage{135}
+  \item experimental debugging, \hyperpage{4}, \hyperpage{131}
+  \item exponent, \hyperpage{202}
+  \item exponential growth, \hyperpage{203}
+  \item expression, \hyperpage{13, 14}, \hyperpage{18}
+    \subitem big and hairy, \hyperpage{199}
+    \subitem boolean, \hyperpage{41}, \hyperpage{48}
+  \item extend method, \hyperpage{90}
+
+  \indexspace
+
+  \item factorial function, \hyperpage{56}, \hyperpage{58}
+  \item False special value, \hyperpage{41}
+  \item Fermat's Last Theorem, \hyperpage{49}
+  \item fibonacci function, \hyperpage{57}, \hyperpage{107}
+  \item file, \hyperpage{133}
+    \subitem permission, \hyperpage{136}
+    \subitem reading and writing, \hyperpage{133}
+  \item file object, \hyperpage{81}, \hyperpage{85}
+  \item filename, \hyperpage{135}
+  \item filter pattern, \hyperpage{91}, \hyperpage{98}
+  \item find function, \hyperpage{74}
+  \item flag, \hyperpage{108}, \hyperpage{111}
+  \item float function, \hyperpage{19}
+  \item float type, \hyperpage{11}
+  \item floating-point, \hyperpage{17}, \hyperpage{67}
+  \item floating-point division, \hyperpage{14}
+  \item floor division, \hyperpage{14}, \hyperpage{18}, \hyperpage{48}
+  \item flow of execution, \hyperpage{23}, \hyperpage{28}, 
+		\hyperpage{58, 59}, \hyperpage{64}, \hyperpage{174}, 
+		\hyperpage{188}, \hyperpage{196}
+  \item flower, \hyperpage{39}
+  \item folder, \hyperpage{135}
+  \item for loop, \hyperpage{32}, \hyperpage{72}, \hyperpage{89}, 
+		\hyperpage{116}
+  \item formal language, \hyperpage{5}, \hyperpage{8}
+  \item format operator, \hyperpage{134}, \hyperpage{141}, 
+		\hyperpage{197}
+  \item format sequence, \hyperpage{134}, \hyperpage{141}
+  \item format string, \hyperpage{134}, \hyperpage{141}
+  \item frame, \hyperpage{25}, \hyperpage{29}, \hyperpage{45}, 
+		\hyperpage{56}, \hyperpage{107}, \hyperpage{213}
+  \item Frame widget, \hyperpage{183}
+  \item Free Documentation License, GNU, \hyperpage{v, vi}
+  \item frequency, \hyperpage{103}
+    \subitem letter, \hyperpage{121}
+    \subitem word, \hyperpage{123}, \hyperpage{132}
+  \item fruitful function, \hyperpage{26}, \hyperpage{28}
+  \item frustration, \hyperpage{200}
+  \item function, \hyperpage{6}, \hyperpage{21}, \hyperpage{28}, 
+		\hyperpage{157}
+    \subitem abs, \hyperpage{52}
+    \subitem ack, \hyperpage{61}, \hyperpage{107}
+    \subitem arc, \hyperpage{34}
+    \subitem choice, \hyperpage{124}
+    \subitem circle, \hyperpage{33}
+    \subitem cmp, \hyperpage{170}
+    \subitem compare, \hyperpage{52}
+    \subitem deepcopy, \hyperpage{148}
+    \subitem dict, \hyperpage{101}
+    \subitem enumerate, \hyperpage{116}
+    \subitem eval, \hyperpage{69}
+    \subitem exists, \hyperpage{135}
+    \subitem factorial, \hyperpage{56}
+    \subitem fibonacci, \hyperpage{57}, \hyperpage{107}
+    \subitem find, \hyperpage{74}
+    \subitem float, \hyperpage{19}
+    \subitem getattr, \hyperpage{164}
+    \subitem getcwd, \hyperpage{135}
+    \subitem hasattr, \hyperpage{148}, \hyperpage{164}
+    \subitem int, \hyperpage{19}
+    \subitem isinstance, \hyperpage{58}, \hyperpage{162}
+    \subitem len, \hyperpage{29}, \hyperpage{71}, \hyperpage{102}
+    \subitem list, \hyperpage{93}
+    \subitem log, \hyperpage{20}
+    \subitem max, \hyperpage{115}
+    \subitem min, \hyperpage{115}
+    \subitem open, \hyperpage{81, 82}, \hyperpage{133}, 
+		\hyperpage{136, 137}
+    \subitem polygon, \hyperpage{33}
+    \subitem popen, \hyperpage{138}
+    \subitem randint, \hyperpage{98}, \hyperpage{124}
+    \subitem random, \hyperpage{119}, \hyperpage{124}
+    \subitem raw\_input, \hyperpage{46}
+    \subitem recursive, \hyperpage{45}
+    \subitem reload, \hyperpage{140}, \hyperpage{195}
+    \subitem repr, \hyperpage{140}
+    \subitem reversed, \hyperpage{120}
+    \subitem shuffle, \hyperpage{172}
+    \subitem sorted, \hyperpage{120}
+    \subitem sqrt, \hyperpage{20}, \hyperpage{53}
+    \subitem str, \hyperpage{20}
+    \subitem sum, \hyperpage{116}
+    \subitem tuple, \hyperpage{113}
+    \subitem type, \hyperpage{148}
+    \subitem zip, \hyperpage{116}
+  \item function argument, \hyperpage{23}
+  \item function call, \hyperpage{19}, \hyperpage{28}
+  \item function composition, \hyperpage{54}
+  \item function definition, \hyperpage{21, 22}, \hyperpage{28}
+  \item function frame, \hyperpage{25}, \hyperpage{29}, \hyperpage{45}, 
+		\hyperpage{56}, \hyperpage{107}, \hyperpage{213}
+  \item function object, \hyperpage{22}, \hyperpage{29}, 
+		\hyperpage{215}
+  \item function parameter, \hyperpage{23}
+  \item function syntax, \hyperpage{158}
+  \item function type
+    \subitem modifier, \hyperpage{153}
+    \subitem pure, \hyperpage{152}
+  \item function, fruitful, \hyperpage{26}
+  \item function, math, \hyperpage{20}
+  \item function, reasons for, \hyperpage{26}
+  \item function, trigonometric, \hyperpage{20}
+  \item function, tuple as return value, \hyperpage{115}
+  \item function, void, \hyperpage{26}
+  \item functional programming style, \hyperpage{153}, \hyperpage{156}
+
+  \indexspace
+
+  \item gamma function, \hyperpage{58}
+  \item gather, \hyperpage{115}, \hyperpage{121}
+  \item GCD (greatest common divisor), \hyperpage{61}
+  \item generalization, \hyperpage{34}, \hyperpage{38}, \hyperpage{83}, 
+		\hyperpage{155}
+  \item geometric resizing, \hyperpage{209}
+  \item geometry manager, \hyperpage{185}, \hyperpage{189}
+  \item get method, \hyperpage{103}
+  \item getattr function, \hyperpage{164}
+  \item getcwd function, \hyperpage{135}
+  \item global statement, \hyperpage{108}
+  \item global variable, \hyperpage{108}, \hyperpage{111}, 
+		\hyperpage{212}
+    \subitem update, \hyperpage{108}
+  \item GNU Free Documentation License, \hyperpage{v, vi}
+  \item graphical user interface, \hyperpage{179}
+  \item greatest common divisor (GCD), \hyperpage{61}
+  \item grid, \hyperpage{29}
+  \item guardian pattern, \hyperpage{59, 60}, \hyperpage{77}
+  \item GUI, \hyperpage{179}, \hyperpage{189}
+  \item Gui module, \hyperpage{179}
+
+  \indexspace
+
+  \item Hand class, \hyperpage{172}, \hyperpage{218}
+  \item hanging, \hyperpage{195}
+  \item HAS-A relationship, \hyperpage{174}, \hyperpage{177}, 
+		\hyperpage{217}
+  \item hasattr function, \hyperpage{148}, \hyperpage{164}
+  \item hash function, \hyperpage{106}, \hyperpage{110}, 
+		\hyperpage{207}
+  \item hashable, \hyperpage{106}, \hyperpage{110}, \hyperpage{117}
+  \item HashMap, \hyperpage{207}
+  \item hashtable, \hyperpage{102}, \hyperpage{110}, \hyperpage{206}
+  \item header, \hyperpage{21}, \hyperpage{28}, \hyperpage{194}
+  \item Hello, World, \hyperpage{6}
+  \item help utility, \hyperpage{9}
+  \item hexadecimal, \hyperpage{144}
+  \item high-level language, \hyperpage{1}, \hyperpage{7}
+  \item histogram, \hyperpage{103}, \hyperpage{110}
+    \subitem random choice, \hyperpage{124}, \hyperpage{127}
+    \subitem word frequencies, \hyperpage{125}
+  \item Holmes, Sherlock, \hyperpage{4}
+  \item homophone, \hyperpage{111}
+  \item HTMLParser module, \hyperpage{191}
+  \item hyperlink, \hyperpage{191}
+  \item hypotenuse, \hyperpage{54}
+
+  \indexspace
+
+  \item identical, \hyperpage{98}
+  \item identity, \hyperpage{94}
+  \item if statement, \hyperpage{42}
+  \item Image module, \hyperpage{190}
+  \item image viewer, \hyperpage{190}
+  \item immutability, \hyperpage{74}, \hyperpage{79}, \hyperpage{95}, 
+		\hyperpage{106}, \hyperpage{113}, \hyperpage{119}
+  \item implementation, \hyperpage{103}, \hyperpage{110}, 
+		\hyperpage{130}, \hyperpage{164}
+  \item import statement, \hyperpage{28}, \hyperpage{32}, 
+		\hyperpage{140}
+  \item {\tt in} operator, \hyperpage{205}
+  \item in operator, \hyperpage{76}, \hyperpage{88}, \hyperpage{102}
+  \item increment, \hyperpage{64}, \hyperpage{69}, \hyperpage{153}, 
+		\hyperpage{159}
+  \item incremental development, \hyperpage{60}, \hyperpage{193}
+  \item indentation, \hyperpage{21}, \hyperpage{158}, \hyperpage{194}
+  \item index, \hyperpage{71}, \hyperpage{77}, \hyperpage{79}, 
+		\hyperpage{87}, \hyperpage{97}, \hyperpage{101}, 
+		\hyperpage{197}
+    \subitem looping with, \hyperpage{83}, \hyperpage{89}
+    \subitem negative, \hyperpage{72}
+    \subitem slice, \hyperpage{73}, \hyperpage{89}
+    \subitem starting at zero, \hyperpage{71}, \hyperpage{88}
+  \item IndexError, \hyperpage{72}, \hyperpage{77}, \hyperpage{88}, 
+		\hyperpage{197}
+  \item indexing, \hyperpage{204}
+  \item infinite loop, \hyperpage{65}, \hyperpage{69}, \hyperpage{180}, 
+		\hyperpage{195, 196}
+  \item infinite recursion, \hyperpage{46}, \hyperpage{49}, 
+		\hyperpage{58}, \hyperpage{195, 196}
+  \item information hiding, \hyperpage{165}
+  \item inheritance, \hyperpage{172}, \hyperpage{176}
+  \item init method, \hyperpage{160}, \hyperpage{164}, \hyperpage{168}, 
+		\hyperpage{170}, \hyperpage{172}
+  \item initialization
+    \subitem variable, \hyperpage{69}
+  \item initialization (before update), \hyperpage{64}
+  \item instance, \hyperpage{32}, \hyperpage{38}, \hyperpage{144}, 
+		\hyperpage{149}
+    \subitem as argument, \hyperpage{145}
+    \subitem as return value, \hyperpage{146}
+  \item instance attribute, \hyperpage{144}, \hyperpage{149}, 
+		\hyperpage{168}, \hyperpage{176}
+  \item instantiate, \hyperpage{216}
+  \item instantiation, \hyperpage{144}
+  \item int function, \hyperpage{19}
+  \item int type, \hyperpage{11}
+  \item integer, \hyperpage{17}
+    \subitem long, \hyperpage{109}
+  \item interactive mode, \hyperpage{2}, \hyperpage{8}, \hyperpage{14}, 
+		\hyperpage{26}
+  \item interface, \hyperpage{35}, \hyperpage{38}, \hyperpage{164}, 
+		\hyperpage{175}
+  \item interlocking words, \hyperpage{99}
+  \item interpret, \hyperpage{2}, \hyperpage{7}
+  \item invariant, \hyperpage{155, 156}, \hyperpage{189}
+  \item invert dictionary, \hyperpage{105}
+  \item invocation, \hyperpage{75}, \hyperpage{79}
+  \item IOError, \hyperpage{136}
+  \item is operator, \hyperpage{93}, \hyperpage{147}
+  \item IS-A relationship, \hyperpage{174}, \hyperpage{177}, 
+		\hyperpage{217}
+  \item isinstance function, \hyperpage{58}, \hyperpage{162}
+  \item item, \hyperpage{79}, \hyperpage{87}
+    \subitem Canvas, \hyperpage{181}, \hyperpage{189}
+    \subitem dictionary, \hyperpage{110}
+  \item item assignment, \hyperpage{74}, \hyperpage{88}, 
+		\hyperpage{114}
+  \item item update, \hyperpage{89}
+  \item items method, \hyperpage{117}
+  \item iteration, \hyperpage{64}, \hyperpage{69}
+
+  \indexspace
+
+  \item {\tt join}, \hyperpage{204}
+  \item join method, \hyperpage{93}, \hyperpage{171}
+
+  \indexspace
+
+  \item Kangaroo class, \hyperpage{165}
+  \item key, \hyperpage{101}, \hyperpage{110}
+  \item key-value pair, \hyperpage{101}, \hyperpage{110}, 
+		\hyperpage{117}
+  \item keyboard input, \hyperpage{46}
+  \item KeyError, \hyperpage{102}, \hyperpage{197}
+  \item {\tt KeyError}, \hyperpage{206}
+  \item keys method, \hyperpage{104}
+  \item keyword, \hyperpage{12, 13}, \hyperpage{17}, \hyperpage{194}
+    \subitem def, \hyperpage{21}
+    \subitem elif, \hyperpage{43}
+    \subitem else, \hyperpage{43}
+  \item keyword argument, \hyperpage{35}, \hyperpage{38}, 
+		\hyperpage{119}, \hyperpage{180}, \hyperpage{189}
+  \item Koch curve, \hyperpage{50}
+
+  \indexspace
+
+  \item Label widget, \hyperpage{180}
+  \item language
+    \subitem formal, \hyperpage{5}
+    \subitem high-level, \hyperpage{1}
+    \subitem low-level, \hyperpage{1}
+    \subitem natural, \hyperpage{5}
+    \subitem programming, \hyperpage{1}
+    \subitem safe, \hyperpage{4}
+    \subitem Turing complete, \hyperpage{55}
+  \item leading coefficient, \hyperpage{202}
+  \item leading term, \hyperpage{202}
+  \item leap of faith, \hyperpage{57}
+  \item len function, \hyperpage{29}, \hyperpage{71}, \hyperpage{102}
+  \item letter   frequency, \hyperpage{121}
+  \item letter rotation, \hyperpage{80}, \hyperpage{111}
+  \item linear growth, \hyperpage{203}
+  \item linear search, \hyperpage{205}
+  \item {\tt LinearMap}, \hyperpage{206}
+  \item Linux, \hyperpage{4}
+  \item lipogram, \hyperpage{82}
+  \item list, \hyperpage{87}, \hyperpage{93}, \hyperpage{97}, 
+		\hyperpage{119}
+    \subitem as argument, \hyperpage{95}
+    \subitem comprehension, \hyperpage{92}
+    \subitem concatenation, \hyperpage{89}, \hyperpage{95}, 
+		\hyperpage{98}
+    \subitem copy, \hyperpage{90}
+    \subitem element, \hyperpage{87}
+    \subitem empty, \hyperpage{87}
+    \subitem function, \hyperpage{93}
+    \subitem index, \hyperpage{88}
+    \subitem membership, \hyperpage{88}
+    \subitem method, \hyperpage{90}
+    \subitem nested, \hyperpage{87}, \hyperpage{89}
+    \subitem of objects, \hyperpage{170}
+    \subitem of tuples, \hyperpage{116}
+    \subitem operation, \hyperpage{89}
+    \subitem repetition, \hyperpage{89}
+    \subitem slice, \hyperpage{89}
+    \subitem traversal, \hyperpage{89}, \hyperpage{97}
+  \item list index, \hyperpage{214}
+  \item list methods, \hyperpage{204}
+  \item literalness, \hyperpage{5}
+  \item local variable, \hyperpage{24}, \hyperpage{28}
+  \item log function, \hyperpage{20}
+  \item logarithm, \hyperpage{132}
+  \item logarithmic growth, \hyperpage{203}
+  \item logical operator, \hyperpage{41, 42}
+  \item long integer, \hyperpage{109}
+  \item lookup, \hyperpage{110}
+  \item lookup, dictionary, \hyperpage{104}
+  \item loop, \hyperpage{33}, \hyperpage{38}, \hyperpage{65}, 
+		\hyperpage{116}
+    \subitem condition, \hyperpage{196}
+    \subitem event, \hyperpage{180}
+    \subitem for, \hyperpage{32}, \hyperpage{72}, \hyperpage{89}
+    \subitem infinite, \hyperpage{65}, \hyperpage{180}, \hyperpage{196}
+    \subitem nested, \hyperpage{170}
+    \subitem traversal, \hyperpage{72}
+    \subitem while, \hyperpage{64}
+  \item looping
+    \subitem with dictionaries, \hyperpage{103}
+    \subitem with indices, \hyperpage{83}, \hyperpage{89}
+    \subitem with strings, \hyperpage{75}
+  \item looping and counting, \hyperpage{75}
+  \item low-level language, \hyperpage{1}, \hyperpage{7}
+  \item ls (Unix command), \hyperpage{138}
+  \item Lumpy, \hyperpage{211}
+
+  \indexspace
+
+  \item machine model, \hyperpage{201}
+  \item maintainable, \hyperpage{164}
+  \item map pattern, \hyperpage{91}, \hyperpage{98}
+  \item map to, \hyperpage{167}
+  \item mapping, \hyperpage{88}, \hyperpage{97}, \hyperpage{129}
+  \item Markov analysis, \hyperpage{128}
+  \item mash-up, \hyperpage{129}
+  \item math function, \hyperpage{20}
+  \item Matplotlib, \hyperpage{132}
+  \item max function, \hyperpage{115}
+  \item McCloskey, Robert, \hyperpage{72}
+  \item md5, \hyperpage{139}
+  \item MD5 algorithm, \hyperpage{139}
+  \item md5sum, \hyperpage{139}
+  \item membership
+    \subitem binary search, \hyperpage{98}
+    \subitem bisection search, \hyperpage{98}
+    \subitem dictionary, \hyperpage{102}
+    \subitem list, \hyperpage{88}
+    \subitem set, \hyperpage{102}
+  \item memo, \hyperpage{107}, \hyperpage{110}
+  \item mental model, \hyperpage{198}
+  \item Menubutton widget, \hyperpage{185}
+  \item metaphor, method invocation, \hyperpage{159}
+  \item metathesis, \hyperpage{122}
+  \item method, \hyperpage{75}, \hyperpage{79}, \hyperpage{157}, 
+		\hyperpage{165}
+    \subitem \_\_cmp\_\_, \hyperpage{169}
+    \subitem \_\_str\_\_, \hyperpage{161}, \hyperpage{171}
+    \subitem add, \hyperpage{161}
+    \subitem append, \hyperpage{90}, \hyperpage{95}, 
+		\hyperpage{170, 171}
+    \subitem close, \hyperpage{134}, \hyperpage{137}, \hyperpage{139}
+    \subitem config, \hyperpage{181}
+    \subitem count, \hyperpage{76}
+    \subitem extend, \hyperpage{90}
+    \subitem get, \hyperpage{103}
+    \subitem init, \hyperpage{160}, \hyperpage{168}, \hyperpage{170}, 
+		\hyperpage{172}
+    \subitem items, \hyperpage{117}
+    \subitem join, \hyperpage{93}, \hyperpage{171}
+    \subitem keys, \hyperpage{104}
+    \subitem mro, \hyperpage{175}
+    \subitem pop, \hyperpage{92}, \hyperpage{171}
+    \subitem radd, \hyperpage{162}
+    \subitem read, \hyperpage{138}
+    \subitem readline, \hyperpage{81}, \hyperpage{138}
+    \subitem remove, \hyperpage{92}
+    \subitem replace, \hyperpage{123}
+    \subitem setdefault, \hyperpage{106}
+    \subitem sort, \hyperpage{90}, \hyperpage{96}, \hyperpage{118}, 
+		\hyperpage{172}
+    \subitem split, \hyperpage{93}, \hyperpage{114}
+    \subitem string, \hyperpage{76}
+    \subitem strip, \hyperpage{81}, \hyperpage{123}
+    \subitem translate, \hyperpage{123}
+    \subitem update, \hyperpage{117}
+    \subitem values, \hyperpage{102}
+    \subitem void, \hyperpage{90}
+  \item method append, \hyperpage{98}
+  \item method resolution order, \hyperpage{175}
+  \item method syntax, \hyperpage{158}
+  \item method, bound, \hyperpage{184}
+  \item method, list, \hyperpage{90}
+  \item Meyers, Chris, \hyperpage{vi}
+  \item min function, \hyperpage{115}
+  \item Moby Project, \hyperpage{81}
+  \item model, mental, \hyperpage{198}
+  \item modifier, \hyperpage{153}, \hyperpage{156}
+  \item module, \hyperpage{20}, \hyperpage{28}
+    \subitem anydbm, \hyperpage{137}
+    \subitem bisect, \hyperpage{99}, \hyperpage{206}
+    \subitem copy, \hyperpage{147}
+    \subitem datetime, \hyperpage{156}
+    \subitem Gui, \hyperpage{179}
+    \subitem HTMLParser, \hyperpage{191}
+    \subitem Image, \hyperpage{190}
+    \subitem os, \hyperpage{135}
+    \subitem pickle, \hyperpage{133}, \hyperpage{137}
+    \subitem pprint, \hyperpage{110}
+    \subitem profile, \hyperpage{130}
+    \subitem random, \hyperpage{98}, \hyperpage{119}, \hyperpage{124}, 
+		\hyperpage{172}
+    \subitem reload, \hyperpage{140}, \hyperpage{195}
+    \subitem shelve, \hyperpage{138}
+    \subitem string, \hyperpage{123}
+    \subitem structshape, \hyperpage{120}
+    \subitem time, \hyperpage{98}
+    \subitem urllib, \hyperpage{141}, \hyperpage{191}
+    \subitem Visual, \hyperpage{166}
+    \subitem vpython, \hyperpage{166}
+    \subitem World, \hyperpage{149}
+  \item module object, \hyperpage{20}, \hyperpage{140}
+  \item module, writing, \hyperpage{139}
+  \item module-level variable, \hyperpage{212}
+  \item modulus operator, \hyperpage{41}, \hyperpage{48}
+  \item Monty Python and the Holy Grail, \hyperpage{152}
+  \item MP3, \hyperpage{139}
+  \item mro method, \hyperpage{175}
+  \item multiline string, \hyperpage{38}, \hyperpage{194}
+  \item multiple assignment, \hyperpage{63}, \hyperpage{68}, 
+		\hyperpage{108}
+  \item multiplicity (in class diagram), \hyperpage{174}, 
+		\hyperpage{177}
+  \item mutability, \hyperpage{74}, \hyperpage{88}, \hyperpage{90}, 
+		\hyperpage{94}, \hyperpage{108}, \hyperpage{113}, 
+		\hyperpage{119}, \hyperpage{146}
+  \item mutable object, as default value, \hyperpage{165}
+
+  \indexspace
+
+  \item NameError, \hyperpage{24}, \hyperpage{197}
+  \item natural language, \hyperpage{5}, \hyperpage{8}
+  \item negative index, \hyperpage{72}
+  \item nested conditional, \hyperpage{43}, \hyperpage{49}
+  \item nested list, \hyperpage{87}, \hyperpage{89}, \hyperpage{97}
+  \item newline, \hyperpage{47}, \hyperpage{63}, \hyperpage{171}
+  \item Newton's method, \hyperpage{66}
+  \item None special value, \hyperpage{26}, \hyperpage{52}, 
+		\hyperpage{60}, \hyperpage{90}, \hyperpage{92}
+  \item not operator, \hyperpage{42}
+  \item number, random, \hyperpage{124}
+
+  \indexspace
+
+  \item Obama, Barack, \hyperpage{201}
+  \item object, \hyperpage{74}, \hyperpage{78}, \hyperpage{93, 94}, 
+		\hyperpage{98}, \hyperpage{143}
+    \subitem Callable, \hyperpage{186}
+    \subitem Canvas, \hyperpage{149}
+    \subitem class, \hyperpage{144}, \hyperpage{149}, \hyperpage{215}
+    \subitem copying, \hyperpage{147}
+    \subitem embedded, \hyperpage{146}, \hyperpage{149}, 
+		\hyperpage{166}
+    \subitem Event, \hyperpage{187}
+    \subitem file, \hyperpage{81}, \hyperpage{85}
+    \subitem function, \hyperpage{22}, \hyperpage{29}, \hyperpage{215}
+    \subitem module, \hyperpage{140}
+    \subitem mutable, \hyperpage{146}
+    \subitem printing, \hyperpage{158}
+  \item object code, \hyperpage{2}, \hyperpage{8}
+  \item object diagram, \hyperpage{144}, \hyperpage{146}, 
+		\hyperpage{148, 149}, \hyperpage{151}, \hyperpage{169}, 
+		\hyperpage{211}, \hyperpage{213}
+  \item object-oriented design, \hyperpage{164}
+  \item object-oriented language, \hyperpage{165}
+  \item object-oriented programming, \hyperpage{157}, \hyperpage{165}, 
+		\hyperpage{172}
+  \item odometer, \hyperpage{86}
+  \item Olin College, \hyperpage{v}
+  \item open function, \hyperpage{81, 82}, \hyperpage{133}, 
+		\hyperpage{136, 137}
+  \item operand, \hyperpage{13}, \hyperpage{18}
+  \item operator, \hyperpage{17}
+    \subitem and, \hyperpage{42}
+    \subitem bitwise, \hyperpage{13}
+    \subitem boolean, \hyperpage{76}
+    \subitem bracket, \hyperpage{71}, \hyperpage{87}, \hyperpage{113}
+    \subitem del, \hyperpage{92}
+    \subitem format, \hyperpage{134}, \hyperpage{141}, \hyperpage{197}
+    \subitem in, \hyperpage{76}, \hyperpage{88}, \hyperpage{102}
+    \subitem is, \hyperpage{93}, \hyperpage{147}
+    \subitem logical, \hyperpage{41, 42}
+    \subitem modulus, \hyperpage{41}, \hyperpage{48}
+    \subitem not, \hyperpage{42}
+    \subitem or, \hyperpage{42}
+    \subitem overloading, \hyperpage{165}
+    \subitem relational, \hyperpage{42}, \hyperpage{169}
+    \subitem slice, \hyperpage{73}, \hyperpage{79}, \hyperpage{89}, 
+		\hyperpage{96}, \hyperpage{114}
+    \subitem string, \hyperpage{15}
+    \subitem update, \hyperpage{91}
+  \item operator overloading, \hyperpage{161}, \hyperpage{169}
+  \item operator, arithmetic, \hyperpage{13}
+  \item option, \hyperpage{180}, \hyperpage{189}
+  \item optional argument, \hyperpage{76}, \hyperpage{93}, 
+		\hyperpage{105}
+  \item optional parameter, \hyperpage{126}, \hyperpage{160}
+  \item or operator, \hyperpage{42}
+  \item order of growth, \hyperpage{202}
+  \item order of operations, \hyperpage{15}, \hyperpage{17}, 
+		\hyperpage{199}
+  \item os module, \hyperpage{135}
+  \item other (parameter name), \hyperpage{160}
+  \item OverflowError, \hyperpage{48}
+  \item overloading, \hyperpage{165}
+  \item override, \hyperpage{127}, \hyperpage{132}, \hyperpage{160}, 
+		\hyperpage{169}, \hyperpage{172}, \hyperpage{175}
+
+  \indexspace
+
+  \item package, \hyperpage{31}
+  \item packing widgets, \hyperpage{183}, \hyperpage{189}
+  \item palindrome, \hyperpage{61}, \hyperpage{79}, \hyperpage{84}, 
+		\hyperpage{86}
+  \item parameter, \hyperpage{23}, \hyperpage{25}, \hyperpage{28}, 
+		\hyperpage{95}
+    \subitem gather, \hyperpage{115}
+    \subitem optional, \hyperpage{126}, \hyperpage{160}
+    \subitem other, \hyperpage{160}
+    \subitem self, \hyperpage{158}
+  \item parent class, \hyperpage{172}, \hyperpage{177}
+  \item parentheses
+    \subitem argument in, \hyperpage{19}
+    \subitem empty, \hyperpage{21}, \hyperpage{75}
+    \subitem matching, \hyperpage{3}
+    \subitem overriding precedence, \hyperpage{15}
+    \subitem parameters in, \hyperpage{23, 24}
+    \subitem parent class in, \hyperpage{172}
+    \subitem tuples in, \hyperpage{113}
+  \item parse, \hyperpage{5}, \hyperpage{8}
+  \item pass statement, \hyperpage{42}
+  \item path, \hyperpage{135}, \hyperpage{141}
+    \subitem absolute, \hyperpage{135}
+    \subitem relative, \hyperpage{135}
+  \item pattern
+    \subitem decorate-sort-undecorate, \hyperpage{119}
+    \subitem DSU, \hyperpage{119}, \hyperpage{126}
+    \subitem filter, \hyperpage{91}, \hyperpage{98}
+    \subitem guardian, \hyperpage{59, 60}, \hyperpage{77}
+    \subitem map, \hyperpage{91}, \hyperpage{98}
+    \subitem reduce, \hyperpage{91}, \hyperpage{97}
+    \subitem search, \hyperpage{74}, \hyperpage{79}, \hyperpage{82}, 
+		\hyperpage{104}
+    \subitem swap, \hyperpage{114}
+  \item pdb (Python debugger), \hyperpage{197}
+  \item PEMDAS, \hyperpage{15}
+  \item permission, file, \hyperpage{136}
+  \item persistence, \hyperpage{133}, \hyperpage{141}
+  \item pi, \hyperpage{20}, \hyperpage{69}
+  \item pickle module, \hyperpage{133}, \hyperpage{137}
+  \item pickling, \hyperpage{137}
+  \item pie, \hyperpage{39}
+  \item PIL (Python Imaging Library), \hyperpage{190}
+  \item pipe, \hyperpage{138}
+  \item pixel coordinate, \hyperpage{188}
+  \item plain text, \hyperpage{81}, \hyperpage{123}, \hyperpage{191}
+  \item planned development, \hyperpage{154, 155}
+  \item playing card, Anglo-American, \hyperpage{167}
+  \item poetry, \hyperpage{6}
+  \item Point class, \hyperpage{143}, \hyperpage{160}, \hyperpage{214}
+  \item point, mathematical, \hyperpage{143}
+  \item poker, \hyperpage{167}, \hyperpage{177}
+  \item polygon function, \hyperpage{33}
+  \item polymorphism, \hyperpage{163}, \hyperpage{165}, \hyperpage{174}
+  \item pop method, \hyperpage{92}, \hyperpage{171}
+  \item popen function, \hyperpage{138}
+  \item portability, \hyperpage{1}, \hyperpage{7}
+  \item postcondition, \hyperpage{38}, \hyperpage{59}, \hyperpage{175}
+  \item pprint module, \hyperpage{110}
+  \item practical analysis of algorithms, \hyperpage{203}
+  \item precedence, \hyperpage{18}, \hyperpage{199}
+  \item precondition, \hyperpage{38, 39}, \hyperpage{59}, 
+		\hyperpage{98}, \hyperpage{175}
+  \item prefix, \hyperpage{129}
+  \item pretty print, \hyperpage{110}
+  \item print function, \hyperpage{6}
+  \item print statement, \hyperpage{6}, \hyperpage{8}, \hyperpage{161}, 
+		\hyperpage{197}
+  \item problem recognition, \hyperpage{83}, \hyperpage{85}
+  \item problem solving, \hyperpage{1}, \hyperpage{7}
+  \item profile module, \hyperpage{130}
+  \item program, \hyperpage{3}, \hyperpage{8}
+  \item program testing, \hyperpage{85}
+  \item programming language, \hyperpage{1}
+  \item Project Gutenberg, \hyperpage{123}
+  \item prompt, \hyperpage{2}, \hyperpage{8}, \hyperpage{47}
+  \item prose, \hyperpage{6}
+  \item prototype and patch, \hyperpage{151}, \hyperpage{154, 155}
+  \item pseudorandom, \hyperpage{124}, \hyperpage{132}
+  \item pure function, \hyperpage{152}, \hyperpage{156}
+  \item Puzzler, \hyperpage{86}, \hyperpage{111}, \hyperpage{122}
+  \item Pythagorean theorem, \hyperpage{52}
+  \item Python 3, \hyperpage{6}, \hyperpage{14}, \hyperpage{46}, 
+		\hyperpage{109}, \hyperpage{116}
+  \item Python debugger (pdb), \hyperpage{197}
+  \item Python Imaging Library (PIL), \hyperpage{190}
+  \item python.org, \hyperpage{9}
+
+  \indexspace
+
+  \item quadratic growth, \hyperpage{203}
+  \item quotation mark, \hyperpage{6}, \hyperpage{11}, \hyperpage{38}, 
+		\hyperpage{73}, \hyperpage{194}
+
+  \indexspace
+
+  \item radd method, \hyperpage{162}
+  \item radian, \hyperpage{20}
+  \item radix sort, \hyperpage{201}
+  \item rage, \hyperpage{200}
+  \item raise statement, \hyperpage{104}, \hyperpage{155}
+  \item Ramanujan, Srinivasa, \hyperpage{69}
+  \item randint function, \hyperpage{98}, \hyperpage{124}
+  \item random function, \hyperpage{119}, \hyperpage{124}
+  \item random module, \hyperpage{98}, \hyperpage{119}, \hyperpage{124}, 
+		\hyperpage{172}
+  \item random number, \hyperpage{124}
+  \item random text, \hyperpage{129}
+  \item random walk programming, \hyperpage{131}, \hyperpage{200}
+  \item rank, \hyperpage{167}
+  \item raw\_input function, \hyperpage{46}
+  \item read method, \hyperpage{138}
+  \item readline method, \hyperpage{81}, \hyperpage{138}
+  \item Rectangle class, \hyperpage{145}, \hyperpage{214}
+  \item recursion, \hyperpage{44, 45}, \hyperpage{49}, \hyperpage{55}, 
+		\hyperpage{57}, \hyperpage{213}
+    \subitem base case, \hyperpage{45}
+    \subitem infinite, \hyperpage{46}, \hyperpage{58}, \hyperpage{196}
+  \item recursive definition, \hyperpage{56}, \hyperpage{122}
+  \item red-black tree, \hyperpage{207}
+  \item reduce pattern, \hyperpage{91}, \hyperpage{97}
+  \item reducible word, \hyperpage{111}, \hyperpage{122}
+  \item redundancy, \hyperpage{5}
+  \item refactoring, \hyperpage{36--38}, \hyperpage{176}
+  \item reference, \hyperpage{94, 95}, \hyperpage{98}
+    \subitem aliasing, \hyperpage{94}
+  \item rehashing, \hyperpage{208}
+  \item relational operator, \hyperpage{42}, \hyperpage{169}
+  \item relative path, \hyperpage{135}, \hyperpage{141}
+  \item reload function, \hyperpage{140}, \hyperpage{195}
+  \item remove method, \hyperpage{92}
+  \item repetition, \hyperpage{32}
+    \subitem list, \hyperpage{89}
+  \item replace method, \hyperpage{123}
+  \item repr function, \hyperpage{140}
+  \item representation, \hyperpage{143}, \hyperpage{145}, 
+		\hyperpage{167}
+  \item return statement, \hyperpage{45}, \hyperpage{51}, 
+		\hyperpage{199}
+  \item return value, \hyperpage{19}, \hyperpage{28}, \hyperpage{51}, 
+		\hyperpage{146}
+    \subitem tuple, \hyperpage{115}
+  \item reverse lookup, dictionary, \hyperpage{104}, \hyperpage{110}
+  \item reverse word pair, \hyperpage{99}
+  \item reversed function, \hyperpage{120}
+  \item rotation
+    \subitem letters, \hyperpage{111}
+  \item rotation, letter, \hyperpage{80}
+  \item RSA algorithm, \hyperpage{109}
+  \item rules of precedence, \hyperpage{15}, \hyperpage{18}
+  \item running pace, \hyperpage{9}, \hyperpage{18}, \hyperpage{156}
+  \item runtime error, \hyperpage{4}, \hyperpage{17}, 
+		\hyperpage{46, 47}, \hyperpage{193}, \hyperpage{196}
+  \item RuntimeError, \hyperpage{46}, \hyperpage{58}
+
+  \indexspace
+
+  \item safe language, \hyperpage{4}
+  \item sanity check, \hyperpage{110}
+  \item scaffolding, \hyperpage{53}, \hyperpage{60}, \hyperpage{110}
+  \item scatter, \hyperpage{115}, \hyperpage{121}
+  \item Schmidt, Eric, \hyperpage{201}
+  \item Scrabble, \hyperpage{121}
+  \item script, \hyperpage{2}, \hyperpage{8}
+  \item script mode, \hyperpage{2}, \hyperpage{8}, \hyperpage{14}, 
+		\hyperpage{26}
+  \item search, \hyperpage{104}, \hyperpage{205}
+  \item search pattern, \hyperpage{74}, \hyperpage{79}, \hyperpage{82}
+  \item search, binary, \hyperpage{98}
+  \item search, bisection, \hyperpage{98}
+  \item secret exercise, \hyperpage{141}
+  \item self (parameter name), \hyperpage{158}
+  \item semantic error, \hyperpage{4}, \hyperpage{8}, \hyperpage{12}, 
+		\hyperpage{17}, \hyperpage{78}, \hyperpage{193}, 
+		\hyperpage{198}
+  \item semantics, \hyperpage{4}, \hyperpage{8}, \hyperpage{157}
+  \item sequence, \hyperpage{71}, \hyperpage{79}, \hyperpage{87}, 
+		\hyperpage{93}, \hyperpage{113}, \hyperpage{119}
+    \subitem coordinate, \hyperpage{182}
+  \item set, \hyperpage{127}
+    \subitem anagram, \hyperpage{121}, \hyperpage{138}
+  \item set membership, \hyperpage{102}
+  \item setdefault method, \hyperpage{106}
+  \item sexagesimal, \hyperpage{154}
+  \item shallow copy, \hyperpage{148, 149}, \hyperpage{215}
+  \item shape, \hyperpage{121}
+  \item shape error, \hyperpage{120}
+  \item shell, \hyperpage{138}
+  \item shelve module, \hyperpage{138}
+  \item shuffle function, \hyperpage{172}
+  \item SimpleTurtleWorld class, \hyperpage{183}
+  \item sine function, \hyperpage{20}
+  \item singleton, \hyperpage{105}, \hyperpage{110}, \hyperpage{113}
+  \item slice, \hyperpage{79}
+    \subitem copy, \hyperpage{74}, \hyperpage{90}
+    \subitem list, \hyperpage{89}
+    \subitem string, \hyperpage{73}
+    \subitem tuple, \hyperpage{114}
+    \subitem update, \hyperpage{90}
+  \item slice operator, \hyperpage{73}, \hyperpage{79}, \hyperpage{89}, 
+		\hyperpage{96}, \hyperpage{114}
+  \item sort method, \hyperpage{90}, \hyperpage{96}, \hyperpage{118}, 
+		\hyperpage{172}
+  \item sorted function, \hyperpage{120}
+  \item sorting, \hyperpage{204, 205}
+  \item source code, \hyperpage{2}, \hyperpage{8}
+  \item special case, \hyperpage{85}, \hyperpage{153}
+  \item special value
+    \subitem False, \hyperpage{41}
+    \subitem None, \hyperpage{26}, \hyperpage{52}, \hyperpage{60}, 
+		\hyperpage{90}, \hyperpage{92}
+    \subitem True, \hyperpage{41}
+  \item spiral, \hyperpage{40}
+  \item split method, \hyperpage{93}, \hyperpage{114}
+  \item sqrt, \hyperpage{53}
+  \item sqrt function, \hyperpage{20}
+  \item square root, \hyperpage{66}
+  \item squiggly bracket, \hyperpage{101}
+  \item stable sort, \hyperpage{205}
+  \item stack diagram, \hyperpage{25}, \hyperpage{29}, \hyperpage{39}, 
+		\hyperpage{45}, \hyperpage{56}, \hyperpage{60}, 
+		\hyperpage{95}, \hyperpage{211, 212}
+  \item state diagram, \hyperpage{12}, \hyperpage{17}, \hyperpage{63}, 
+		\hyperpage{78}, \hyperpage{88}, \hyperpage{94}, 
+		\hyperpage{106}, \hyperpage{118}, \hyperpage{144}, 
+		\hyperpage{146}, \hyperpage{148}, \hyperpage{151}, 
+		\hyperpage{169}, \hyperpage{211}
+  \item statement, \hyperpage{17}
+    \subitem assert, \hyperpage{155}
+    \subitem assignment, \hyperpage{12}, \hyperpage{63}
+    \subitem break, \hyperpage{65}
+    \subitem compound, \hyperpage{42}
+    \subitem conditional, \hyperpage{42}, \hyperpage{48}, 
+		\hyperpage{55}
+    \subitem for, \hyperpage{32}, \hyperpage{72}, \hyperpage{89}
+    \subitem global, \hyperpage{108}
+    \subitem if, \hyperpage{42}
+    \subitem import, \hyperpage{28}, \hyperpage{32}, \hyperpage{140}
+    \subitem pass, \hyperpage{42}
+    \subitem print, \hyperpage{6}, \hyperpage{8}, \hyperpage{161}, 
+		\hyperpage{197}
+    \subitem raise, \hyperpage{104}, \hyperpage{155}
+    \subitem return, \hyperpage{45}, \hyperpage{51}, \hyperpage{199}
+    \subitem try, \hyperpage{136}
+    \subitem while, \hyperpage{64}
+  \item step size, \hyperpage{79}
+  \item str function, \hyperpage{20}
+  \item \_\_str\_\_ method, \hyperpage{161}, \hyperpage{171}
+  \item string, \hyperpage{11}, \hyperpage{17}, \hyperpage{93}, 
+		\hyperpage{119}
+    \subitem accumulator, \hyperpage{171}
+    \subitem comparison, \hyperpage{76}
+    \subitem empty, \hyperpage{93}
+    \subitem immutable, \hyperpage{74}
+    \subitem method, \hyperpage{75}
+    \subitem multiline, \hyperpage{38}, \hyperpage{194}
+    \subitem operation, \hyperpage{15}
+    \subitem slice, \hyperpage{73}
+    \subitem triple-quoted, \hyperpage{38}
+  \item string concatenation, \hyperpage{204}
+  \item string method, \hyperpage{76}
+  \item string methods, \hyperpage{204}
+  \item string module, \hyperpage{123}
+  \item string representation, \hyperpage{140}, \hyperpage{161}
+  \item string type, \hyperpage{11}
+  \item strip method, \hyperpage{81}, \hyperpage{123}
+  \item structshape module, \hyperpage{120}
+  \item structure, \hyperpage{5}
+  \item subclass, \hyperpage{172}
+  \item subject, \hyperpage{158}, \hyperpage{165}, \hyperpage{184}
+  \item subtraction
+    \subitem dictionary, \hyperpage{127}
+    \subitem with borrowing, \hyperpage{68}
+  \item subtraction with borrowing, \hyperpage{155}
+  \item suffix, \hyperpage{129}
+  \item suit, \hyperpage{167}
+  \item sum function, \hyperpage{116}
+  \item superclass, \hyperpage{172}
+  \item superstitious debugging, \hyperpage{200}
+  \item SVG, \hyperpage{191}
+  \item Swampy, \hyperpage{31}, \hyperpage{149}, \hyperpage{178, 179}, 
+		\hyperpage{211}
+  \item swap pattern, \hyperpage{114}
+  \item syntax, \hyperpage{3}, \hyperpage{8}, \hyperpage{157}, 
+		\hyperpage{194}
+  \item syntax error, \hyperpage{3}, \hyperpage{8}, \hyperpage{16}, 
+		\hyperpage{193}
+  \item SyntaxError, \hyperpage{21}
+
+  \indexspace
+
+  \item Tagger, \hyperpage{178}
+  \item temporary variable, \hyperpage{51}, \hyperpage{60}, 
+		\hyperpage{199}
+  \item test case, minimal, \hyperpage{198}
+  \item testing
+    \subitem and absence of bugs, \hyperpage{85}
+    \subitem incremental development, \hyperpage{52}
+    \subitem interactive mode, \hyperpage{2}
+    \subitem is hard, \hyperpage{85}
+    \subitem knowing the answer, \hyperpage{53}
+    \subitem leap of faith, \hyperpage{57}
+    \subitem minimal test case, \hyperpage{198}
+  \item text
+    \subitem plain, \hyperpage{81}, \hyperpage{123}, \hyperpage{191}
+    \subitem random, \hyperpage{129}
+  \item text file, \hyperpage{141}
+  \item Text widget, \hyperpage{182}
+  \item Time class, \hyperpage{151}
+  \item time module, \hyperpage{98}
+  \item Tkinter, \hyperpage{179}
+  \item token, \hyperpage{5}, \hyperpage{8}
+  \item traceback, \hyperpage{25}, \hyperpage{29}, \hyperpage{46, 47}, 
+		\hyperpage{105}, \hyperpage{196}
+  \item translate method, \hyperpage{123}
+  \item traversal, \hyperpage{72}, \hyperpage{74}, \hyperpage{77}, 
+		\hyperpage{79}, \hyperpage{83}, \hyperpage{91}, 
+		\hyperpage{97}, \hyperpage{103}, \hyperpage{116}, 
+		\hyperpage{119}, \hyperpage{125}
+    \subitem dictionary, \hyperpage{164}
+    \subitem list, \hyperpage{89}
+  \item traverse
+    \subitem dictionary, \hyperpage{117}
+  \item triangle, \hyperpage{49}
+  \item trigonometric function, \hyperpage{20}
+  \item triple-quoted string, \hyperpage{38}
+  \item True special value, \hyperpage{41}
+  \item try statement, \hyperpage{136}
+  \item tuple, \hyperpage{113}, \hyperpage{115}, \hyperpage{119}, 
+		\hyperpage{121}
+    \subitem as key in dictionary, \hyperpage{117}, \hyperpage{130}
+    \subitem assignment, \hyperpage{114}
+    \subitem comparison, \hyperpage{118}, \hyperpage{170}
+    \subitem in brackets, \hyperpage{117}
+    \subitem singleton, \hyperpage{113}
+    \subitem slice, \hyperpage{114}
+  \item tuple assignment, \hyperpage{115, 116}, \hyperpage{121}
+  \item tuple function, \hyperpage{113}
+  \item tuple methods, \hyperpage{204}
+  \item Turing complete language, \hyperpage{55}
+  \item Turing Thesis, \hyperpage{55}
+  \item Turing, Alan, \hyperpage{55}
+  \item turtle typewriter, \hyperpage{40}
+  \item TurtleWorld, \hyperpage{31}, \hyperpage{49}, \hyperpage{178}
+  \item type, \hyperpage{11}, \hyperpage{17}
+    \subitem bool, \hyperpage{41}
+    \subitem dict, \hyperpage{101}
+    \subitem file, \hyperpage{133}
+    \subitem float, \hyperpage{11}
+    \subitem int, \hyperpage{11}
+    \subitem list, \hyperpage{87}
+    \subitem long, \hyperpage{109}
+    \subitem set, \hyperpage{127}
+    \subitem str, \hyperpage{11}
+    \subitem tuple, \hyperpage{113}
+    \subitem user-defined, \hyperpage{143}, \hyperpage{151}
+  \item type checking, \hyperpage{58}
+  \item type conversion, \hyperpage{19}
+  \item type function, \hyperpage{148}
+  \item type-based dispatch, \hyperpage{162, 163}, \hyperpage{165}
+  \item TypeError, \hyperpage{71}, \hyperpage{74}, \hyperpage{106}, 
+		\hyperpage{114, 115}, \hyperpage{134}, \hyperpage{159}, 
+		\hyperpage{197}
+  \item typewriter, turtle, \hyperpage{40}
+  \item typographical error, \hyperpage{131}
+
+  \indexspace
+
+  \item UML, \hyperpage{211}, \hyperpage{217}
+  \item unbounded, \hyperpage{203}
+  \item UnboundLocalError, \hyperpage{108}
+  \item underscore character, \hyperpage{13}
+  \item Unified Modeling Language, \hyperpage{211}
+  \item uniqueness, \hyperpage{98}
+  \item Unix command
+    \subitem ls, \hyperpage{138}
+  \item update, \hyperpage{64}, \hyperpage{66}, \hyperpage{69}
+    \subitem coordinate, \hyperpage{187}
+    \subitem database, \hyperpage{137}
+    \subitem global variable, \hyperpage{108}
+    \subitem histogram, \hyperpage{125}
+    \subitem item, \hyperpage{89}
+    \subitem slice, \hyperpage{90}
+  \item update method, \hyperpage{117}
+  \item update operator, \hyperpage{91}
+  \item URL, \hyperpage{141}, \hyperpage{191}
+  \item urllib module, \hyperpage{141}, \hyperpage{191}
+  \item use before def, \hyperpage{17}, \hyperpage{22}
+  \item user-defined type, \hyperpage{143}, \hyperpage{151}
+
+  \indexspace
+
+  \item value, \hyperpage{11}, \hyperpage{17}, \hyperpage{93, 94}, 
+		\hyperpage{110}
+    \subitem default, \hyperpage{126}
+    \subitem tuple, \hyperpage{115}
+  \item ValueError, \hyperpage{47}, \hyperpage{104}, \hyperpage{114}
+  \item values method, \hyperpage{102}
+  \item variable, \hyperpage{12}, \hyperpage{17}
+    \subitem global, \hyperpage{108}, \hyperpage{212}
+    \subitem local, \hyperpage{24}
+    \subitem module-level, \hyperpage{212}
+    \subitem temporary, \hyperpage{51}, \hyperpage{60}, \hyperpage{199}
+    \subitem updating, \hyperpage{64}
+  \item variable-length argument tuple, \hyperpage{115}
+  \item vector graphics, \hyperpage{191}
+  \item veneer, \hyperpage{171}, \hyperpage{176}
+  \item Visual module, \hyperpage{166}
+  \item void function, \hyperpage{26}, \hyperpage{28}
+  \item void method, \hyperpage{90}
+  \item vorpal, \hyperpage{55}
+  \item vpython module, \hyperpage{166}
+
+  \indexspace
+
+  \item walk, directory, \hyperpage{135}
+  \item while loop, \hyperpage{64}
+  \item whitespace, \hyperpage{27}, \hyperpage{47}, \hyperpage{82}, 
+		\hyperpage{140}, \hyperpage{194}
+  \item widget, \hyperpage{180}, \hyperpage{189}
+    \subitem Button, \hyperpage{180}
+    \subitem Canvas, \hyperpage{181}
+    \subitem Entry, \hyperpage{182}
+    \subitem Frame, \hyperpage{183}
+    \subitem Label, \hyperpage{180}
+    \subitem Menubutton, \hyperpage{185}
+    \subitem Text, \hyperpage{182}
+  \item widget, packing, \hyperpage{183}
+  \item word count, \hyperpage{139}
+  \item word frequency, \hyperpage{123}, \hyperpage{132}
+  \item word, reducible, \hyperpage{111}, \hyperpage{122}
+  \item working directory, \hyperpage{135}
+  \item World module, \hyperpage{149}
+  \item worst bug, \hyperpage{165}
+    \subitem ever, \hyperpage{190}
+  \item worst case, \hyperpage{202}
+
+  \indexspace
+
+  \item zero, index starting at, \hyperpage{71}, \hyperpage{88}
+  \item zip function, \hyperpage{116}
+    \subitem use with dict, \hyperpage{117}
+  \item Zipf's law, \hyperpage{132}
+
+\end{theindex}
